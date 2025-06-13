@@ -11,3 +11,5 @@ Proyecto Crud con Laravel
  - http://localhost/crudlaravel/public/register. Esto es para registrar el usuario
 
 3) Cuando ingresar al sistema se refleja la opcion de Vehiculos: en donde podran registrar, editar o elimiar el vehiculo.
+
+4) Debe modificar el archivo .env para que pueda conectar a la base de datos que ustedes esten utilizando.
